@@ -28,7 +28,7 @@ ARTIFICIAL-  → próximamente
 
 ### Certificaciones
 - Google Advanced Data Analytics Professional Certificate (Dic 2025)
-- Microcredencial en Inteligencia Artificial Aplicada – Universidad de Salamanca (2025)
+- Microcredencial en Inteligencia Artificial Aplicada – Universidad de Salamanca (Ago 2025)
 - Doctorado en Ciencias – Patología – UNIFESP (2020-2024)
 
 ### Contacto
