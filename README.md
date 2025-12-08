@@ -19,7 +19,11 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
   Pipeline completo de ML (proyecto final del certificado Google)  
   Subiendo en las próximas 24h
 
-- Clinical Trial Dropout Prediction → próximamente  
+Máster de Formación Permanente en
+BIG DATA, 
+DATA SCIENCE & 
+INTELIGENCIA 
+ARTIFICIAL-  → próximamente  
 - Dashboard interactivo de salud pública → próximamente
 
 ### Certificaciones
