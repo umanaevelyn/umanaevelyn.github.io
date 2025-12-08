@@ -32,7 +32,7 @@ ARTIFICIAL-  → próximamente
 - Doctorado en Ciencias – Patología – UNIFESP (2020-2024)
 
 ### Contacto
-[LinkedIn](https://www.linkedin.com/in/evelyn-roxana-perez-umana) • umana.evelyn@gmail.com
+[LinkedIn](www.linkedin.com/in/evelynrpumana/) • umana.evelyn@unifesp.br
 
 ---
 © 2025 Evelyn Roxana Pérez Umana
