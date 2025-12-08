@@ -30,6 +30,7 @@ ARTIFICIAL-  → próximamente
 - Google Advanced Data Analytics Professional Certificate (Dic 2025)
 - Microcredencial en Inteligencia Artificial Aplicada – Universidad de Salamanca (Ago 2025)
 - Doctorado en Ciencias – Patología – UNIFESP (2020-2024)
+- Máster en Ciencias – Farmacología – USP (2017-2019)
 
 ### Contacto
 [LinkedIn](www.linkedin.com/in/evelynrpumana/) • umana.evelyn@unifesp.br
