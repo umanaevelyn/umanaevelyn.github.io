@@ -17,21 +17,23 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 
 ---
 
-### Featured Projects
-
-- **Menopause & Allergic Inflammation Biomarkers**  
-  Predictive models of post-menopausal asthma exacerbations  
-  [Repository](https://github.com/umanaevelyn/menopause-data-analysis) ← In progress
+### Projects
 
 - **Google Advanced Data Analytics Capstone** – Employee churn prediction  
   Logistic Regression + class_weight balanced | Recall churn 0.72  
   [Repository](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone) • [Notebook](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone/blob/main/Salifort_Motors_Capstone.ipynb)
+
+
+- **Menopause & Allergic Inflammation Biomarkers**  
+  Predictive models of post-menopausal asthma exacerbations  
+  [Repository](https://github.com/umanaevelyn/menopause-data-analysis) ← In progress
 
 - **Master's in Big Data, Data Science & Artificial Intelligence**  
 Coming in 2026
 
 - **Interactive Public Health Dashboard**  
   Coming soon
+
 
 ---
 
