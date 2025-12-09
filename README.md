@@ -11,7 +11,7 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 
 ### Projects
 - **Google Advanced Data Analytics Capstone** – Employee churn prediction  
-  Logistic Regression | Recall churn 0.72  
+  Logistic Regression  
   [Repository](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone) • [Pretty view](https://nbviewer.org/github/umanaevelyn/google-advanced-data-analytics-capstone/blob/main/Salifort_Motors_Capstone.ipynb)
 
 - **Menopause & Allergic Inflammation Biomarkers**  
@@ -34,6 +34,5 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/evelynrpumana/) • umana.evelyn@gmail.com • [Portfolio](https://umanaevelyn.github.io)
 
-© 2025 Evelyn Roxana Pérez Umana
-
+© 2025 Evelyn Roxana Perez Umana
 
