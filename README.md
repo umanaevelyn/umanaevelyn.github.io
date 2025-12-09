@@ -4,6 +4,7 @@
 PharmD │ PhD in Sciences – Pathology 
 
 Health Scientist → Data Scientist (Health & Biotech)
+
 Google Advanced Data Analytics Professional Certificate – Dec 2025
 
 PhD in Sciences – Pathology | Health Scientist → Data Scientist  
