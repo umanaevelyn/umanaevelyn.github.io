@@ -1,5 +1,5 @@
 
-# Evelyn Roxana Pérez Umana
+
 
 PharmD │ PhD in Sciences – Pathology 
 Health Scientist → Data Scientist (Health & Biotech)
