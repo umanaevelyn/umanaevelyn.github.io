@@ -43,6 +43,6 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 
 ### **Contact**
 
-LinkedIn • [https://www.linkedin.com/in/evelynrpumana]
+[LinkedIn](https://www.linkedin.com/in/evelynrpumana)
 
 
