@@ -1,6 +1,6 @@
 
 
-**Evelyn Roxana Pérez Umaña**
+**Evelyn Roxana Perez Umana**
 PharmD │ PhD in Pathology │ Data Scientist – Health & Biotech
 Google Advanced Data Analytics Professional Certificate – Dec 2025
 
