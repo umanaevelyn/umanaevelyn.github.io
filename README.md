@@ -42,6 +42,6 @@ Predictive models of post-menopausal asthma exacerbations
 
 ### **Contact**
 
-LinkedIn • [umana.evelyn@unifesp.br](mailto:umana.evelyn@unifesp.br)
+LinkedIn • [www.linkedin.com/in/evelynrpumana](mailto:umana.evelyn@unifesp.br)
 
 
