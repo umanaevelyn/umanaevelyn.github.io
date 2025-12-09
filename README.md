@@ -1,6 +1,4 @@
-Here is a polished English version suitable for your GitHub portfolio:
 
----
 
 **Evelyn Roxana Pérez Umaña**
 PharmD │ PhD in Pathology │ Data Scientist – Health & Biotech
