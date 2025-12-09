@@ -20,7 +20,7 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 ### Projects
 
 - **Google Advanced Data Analytics Capstone** – Employee churn prediction  
-  Logistic Regression + class_weight balanced | Recall churn 0.72  
+  Logistic Regression   
   [Repository](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone) • [Notebook](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone/blob/main/Salifort_Motors_Capstone.ipynb)
 
 
