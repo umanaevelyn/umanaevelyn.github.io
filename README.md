@@ -20,9 +20,8 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 Predictive models of post-menopausal asthma exacerbations
 *Repository | In progress*
 
-**Google Advanced Data Analytics Capstone**
-End-to-end ML pipeline (Google certificate final project)
-*Uploading in the next 24 hours*
+- **Google Advanced Data Analytics Capstone** – Employee churn prediction  
+  [Repo](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone) • [Notebook](https://github.com/umanaevelyn/google-advanced-data-analytics-capstone/blob/main/Salifort_Motors_Capstone.ipynb)
 
 **Master’s Program: Big Data, Data Science & Artificial Intelligence**
 *Coming soon*
