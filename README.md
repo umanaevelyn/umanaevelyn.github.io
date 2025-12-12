@@ -26,10 +26,10 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 
 ### Certifications & Education
 - Google Advanced Data Analytics Professional Certificate (Dec 2025)  
-- Microcredential in Applied Artificial Intelligence – University of Salamanca (Aug 2025)  
-- PhD in Sciences – Pathology – UNIFESP (2020–2024)  
-- MSc in Sciences – Pharmacology – USP (2017–2019)  
-- Bachelor’s Degree in Chemistry and Pharmacy – UES (1998–2003)
+- Microcredential in Applied Artificial Intelligence – University of Salamanca (USAL) (Aug 2025)  
+- PhD in Sciences – Pathology – Federal University of São Paulo (UNIFESP) (2020–2024)  
+- MSc in Sciences – Pharmacology – University of São Paulo (USP) (2017–2019)  
+- Bachelor’s Degree in Chemistry and Pharmacy – University of El Salvador (UES) (1998–2003)
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/evelynrpumana/) • umana.evelyn@gmail.com • [Portfolio](https://umanaevelyn.github.io)
