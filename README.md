@@ -32,7 +32,7 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 - Bachelor’s Degree in Chemistry and Pharmacy – University of El Salvador (UES) (1998–2003)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/evelynrpumana/) • umana.evelyn@gmail.com • [Portfolio](https://umanaevelyn.github.io)
+[LinkedIn](https://www.linkedin.com/in/evelynrpumana/) • umana.evelyn@unifesp.br • [Portfolio](https://umanaevelyn.github.io)
 
 © 2025 Evelyn Roxana Perez Umana
 
