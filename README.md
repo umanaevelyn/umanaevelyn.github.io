@@ -30,7 +30,7 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 - PhD in Sciences – Pathology – Federal University of São Paulo (UNIFESP) (2020–2024)  
 - MSc in Sciences – Pharmacology – University of São Paulo (USP) (2017–2019)  
 - Bachelor’s Degree in Chemistry and Pharmacy – University of El Salvador (UES) (1998–2003)
-
+*Diploma revalidated in Brazil*
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/evelynrpumana/) • umana.evelyn@unifesp.br 
 
